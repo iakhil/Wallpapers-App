@@ -59,7 +59,7 @@ const WallpaperGenerator = () => {
     >
       <View style={styles.container}>
         {/* Header Title */}
-        <Text style={styles.header}>Generate Wallpapers on the go!</Text>
+        <Text style={styles.header}>Generate custom wallpapers on the go!</Text>
         
         {/* TextInput for entering the wallpaper prompt */}
         <TextInput

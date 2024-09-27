@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const OPENAI_API_KEY = '';
+const OPENAI_API_KEY = '';  // Your actual API key
 
 export const generateWallpaper = async (prompt, size = '1024x1024') => {
   try {
